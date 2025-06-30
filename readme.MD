@@ -13,7 +13,7 @@ As climate events grow in frequency and severity, governments and insurers must 
 
 ##  Key Features
 
-### 🔄 Dynamic Data Engineering
+### Dynamic Data Engineering
 - Programmatically constructs web URLs to **automatically download event-level wildfire data** by country and year (no static datasets required).
 - Cleans and structures multiple JSON/CSV sources into a unified, analysis-ready format.
 
@@ -91,7 +91,7 @@ wildfire-infrastructure-risk/
 
 ---
 
-## 👤 Author
+## Author
 
 **Don Richardson Bayya**  
 
